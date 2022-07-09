@@ -1,3 +1,6 @@
 # Android
-This is android learning project about listView. It contains list of East Africa Countries
+This is android learning projects
+Project1: ListView 
+Project2: Fragments
+
 
